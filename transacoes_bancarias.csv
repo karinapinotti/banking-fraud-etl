@@ -1,0 +1,11 @@
+id_transacao,id_cliente,data_transacao,valor,moeda,tipo_transacao,canal,cidade,estado,dispositivo
+1,1001,2024-11-01 08:15:00,150.00,BRL,PIX,Mobile,São Paulo,SP,Android
+2,1002,2024-11-01 02:45:00,9800.00,BRL,Transferência,Web,Rio de Janeiro,RJ,Desktop
+3,1001,2024-11-01 08:17:00,160.00,BRL,PIX,Mobile,São Paulo,SP,Android
+4,1003,2024-11-01 23:50:00,50.00,BRL,Cartão,POS,Belo Horizonte,MG,POS
+5,1004,2024-11-01 03:10:00,12000.00,BRL,Transferência,Web,Curitiba,PR,Desktop
+6,1002,2024-11-01 02:47:00,9700.00,BRL,Transferência,Web,Rio de Janeiro,RJ,Desktop
+7,1005,2024-11-01 14:30:00,30.00,BRL,PIX,Mobile,Fortaleza,CE,iOS
+8,1003,2024-11-01 00:15:00,7000.00,BRL,Cartão,POS,Belo Horizonte,MG,POS
+9,1006,2024-11-01 04:00:00,15000.00,BRL,Transferência,Web,São Paulo,SP,Desktop
+10,1001,2024-11-01 08:19:00,155.00,BRL,PIX,Mobile,São Paulo,SP,Android
